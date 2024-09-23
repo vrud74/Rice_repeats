@@ -9,4 +9,3 @@ dir – DNA strand: forward (+) and reverse (-) strands
 z – statistical significance
 v1 – family profile sequence; the insertion corresponds to digit 0
 v2 – aligned repeat sequence; insertions are marked by asterisks.
-
